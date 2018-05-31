@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructNotebook", "StructNot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructNotebookAfterCheck", "StructNotebookAfterCheck\StructNotebookAfterCheck.csproj", "{47849081-EEA0-47AE-AE8B-C1618293DA66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trains", "Trains\Trains.csproj", "{03023516-521B-44CE-8092-5404FD0B252D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{47849081-EEA0-47AE-AE8B-C1618293DA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47849081-EEA0-47AE-AE8B-C1618293DA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47849081-EEA0-47AE-AE8B-C1618293DA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03023516-521B-44CE-8092-5404FD0B252D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03023516-521B-44CE-8092-5404FD0B252D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03023516-521B-44CE-8092-5404FD0B252D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03023516-521B-44CE-8092-5404FD0B252D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
