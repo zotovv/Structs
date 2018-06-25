@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taker", "Tracker\Taker.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthDay", "BirthDay\BirthDay.csproj", "{ABE47425-DFB3-4233-960B-702852F63FCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print", "Print\Print.csproj", "{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ABE47425-DFB3-4233-960B-702852F63FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE47425-DFB3-4233-960B-702852F63FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE47425-DFB3-4233-960B-702852F63FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
