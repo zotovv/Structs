@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthDay", "BirthDay\BirthD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print", "Print\Print.csproj", "{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accountant", "Accountant\Accountant.csproj", "{33F39463-1D2B-4D06-A58D-0E276F2E5DC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{262EF9D9-1401-4BE0-A2CA-B625D74F09E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F39463-1D2B-4D06-A58D-0E276F2E5DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F39463-1D2B-4D06-A58D-0E276F2E5DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F39463-1D2B-4D06-A58D-0E276F2E5DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F39463-1D2B-4D06-A58D-0E276F2E5DC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
